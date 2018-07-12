@@ -19,7 +19,7 @@
  * 4. Add your PAGE_ACCESS_TOKEN to your environment vars
  *
  */
-
+PAGE_ACCESS_TOKEN="EAAK7nTLZCOFkBAJjdlYvOl1n28fI7kKr0FZCXwPbqGSo3w3HoQTuSxoXNz5gRZBttf7ZBVQ3U5Fgg9kBIlTZCz0C4TDgYSm8IjdYJzExW0C3w8qAodx5qPuxv4UNp2qoyQzaTlg2ifZCwsZChkjkNQXW7ix2Xpw9fbHM27XZCoqiOwZDZD";
 'use strict';
 const PAGE_ACCESS_TOKEN = process.env.PAGE_ACCESS_TOKEN;
 // Imports dependencies and set up http server
